@@ -21,7 +21,7 @@ You must have your Fabric account and JupyterHub environment setup. Please see t
    - Login to the FABRIC Portal and JupyterHub
     	- Login to the [FABRIC Portal](https://portal.fabric-testbed.net/) and click the "JupyterHub" link. Or, you can directly go to: [FABRIC JupyterHub](https://jupyter.fabric-testbed.net/)
 
-   - Download the latest copy of the tutorials from GitHub
+   - Download the latest copy of the lab materials from GitHub
     	- Open a terminal in JupyterHub by clicking the "Terminal" tile under "Other" in the Launcher tab
     	- In the terminal window, type the following command to download (pull) the latest version of the set of tutorials from Github:
             ```
@@ -31,3 +31,7 @@ You must have your Fabric account and JupyterHub environment setup. Please see t
    - Run the pre-lab notebook
     	- In the left-hand column of JupyterHub, navigate to the Lab01_CongestionControl lab
     	- Open and execute the 2-pre-lab1.ipynb notebook
+
+## Acknowledgment
+
+This lab is based on Fraida Fund's [TCP Congestion Control](https://witestlab.poly.edu/blog/tcp-congestion-control-basics/) lab.
