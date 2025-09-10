@@ -29,7 +29,7 @@ You must have your Fabric account and JupyterHub environment setup. Please see t
             ```
 
    - Run the pre-lab notebook
-    	- In the left-hand column of JupyterHub, navigate to the Lab01_CongestionControl lab
+    	- In the left-hand column of JupyterHub, navigate to the `Lab01_CongestionControl` folder (cs2520 -> labs -> Lab01_CongestionControl)
     	- Open, read, and run all cells of the `2-pre-lab1.ipynb` notebook
 
 ## Acknowledgment
