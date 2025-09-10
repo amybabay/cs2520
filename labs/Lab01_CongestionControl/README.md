@@ -14,7 +14,7 @@ You must have your Fabric account and JupyterHub environment setup. Please see t
 
 ## Pre-Lab Preparation
 
-- You should start by reviewing the background information on TCP Congestion Control: [here](https://github.com/amybabay/cs2520/blob/main/labs/Lab01_Congestion_Control/Fabric_Setup.md)
+- You should start by reviewing the background information on TCP Congestion Control: [here](https://github.com/amybabay/cs2520/blob/main/labs/Lab01_Congestion_Control/1-congestion-control-bg.md)
 - Then, you will reserve the Fabric resources needed to run the lab using the provided pre-lab Jupyter Notebook.
 
 - To run the pre-lab:
