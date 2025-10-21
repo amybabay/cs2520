@@ -25,7 +25,7 @@ You must have your Fabric account and JupyterHub environment setup. Please see t
 
    - Run the pre-lab notebook
     	- In the left-hand column of JupyterHub, navigate to the `Lab05_VideoStreaming` folder (cs2520 -> labs -> Lab05_VideoStreaming)
-    	- Open, read, and run all cells of the `pre-lab2.ipynb` notebook
+    	- Open, read, and run all cells of the `pre-lab5.ipynb` notebook
 
 ## Acknowledgment
 
