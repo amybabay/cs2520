@@ -31,7 +31,7 @@ folder.
 3\. Click the \"Configure Environment\" link in the notebook (under \"Getting
 Started\" heading and \"Setup Environment\" bullet)
 
-4\. Follow the instructions in the notebook, running each cell to set up your environment. Be sure to edit the `project_id` variable. The project ID for this class is: `a045503e-d19d-434e-93b1-08b8aad3d5d1`
+4\. Follow the instructions in the notebook, running each cell to set up your environment. Be sure to edit the `project_id` variable. The project ID for this class is: `6be4ae05-94fd-49d6-b264-1c6430b584dd`
 - This should create two SSH keys: a Bastion Key and a Sliver Key. To confirm, navigate back to the top-level folder in the JupyterHub file browser (folder icon), then double-click on the \"fabric_config\" folder. It should contain files: `fabric_bastion_key`, `fabric_bastion_key.pub`, `slice_key`, `slice_key.pub`, `ssh_config`, and `fabric_rc`.
 
 ## (Optional) Finish Configuring Your Local SSH Environment
