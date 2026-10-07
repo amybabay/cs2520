@@ -18,7 +18,12 @@ You must have your Fabric account and JupyterHub environment setup. Please see t
 
    - Download the latest copy of the lab materials from GitHub
     	- Open a terminal in JupyterHub by clicking the "Terminal" tile under "Other" in the Launcher tab
-    	- In the terminal window, type the following command to download (pull) the latest version of the set of tutorials from Github:
+    	- Assuming you already checked out the cs2520 repo for Lab 1, in the terminal window, type the following command to download (pull) the latest version of the set of tutorials from Github:
+            ```
+            cd cs2520 && git fetch && git pull
+            ```
+        - If you have not already checked out the cs2520 repo (above command
+          fails with "No such file or directory"), clone it with:
             ```
             git clone https://github.com/amybabay/cs2520.git
             ```
@@ -26,6 +31,10 @@ You must have your Fabric account and JupyterHub environment setup. Please see t
    - Run the pre-lab notebook
     	- In the left-hand column of JupyterHub, navigate to the `Lab02_InternetRouting` folder (cs2520 -> labs -> Lab02_InternetRouting)
     	- Open, read, and run all cells of the `pre-lab2.ipynb` notebook
+
+    - Read lab2 notebook, following instructions with each cell and writing responses where indicated. You can download your completed notebook from the JupyterHub to submit.
+
+    - Run the post-lab notebook to release your resources
 
 ## Acknowledgment
 
