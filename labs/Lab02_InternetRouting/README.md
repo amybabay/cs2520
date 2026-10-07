@@ -38,4 +38,4 @@ You must have your Fabric account and JupyterHub environment setup. Please see t
 
 ## Acknowledgment
 
-This lab is based on Fraida Fund's [A peek into Internet routing](https://witestlab.poly.edu/blog/a-peek-into-internet-routing/) lab.
+This lab is based on Fraida Fund's [A peek into Internet routing](https://web.archive.org/web/20240502192447/https://witestlab.poly.edu/blog/a-peek-into-internet-routing/) lab.
